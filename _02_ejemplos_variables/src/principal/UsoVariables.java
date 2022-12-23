@@ -10,6 +10,9 @@ public class UsoVariables {
 		
 		System.out.println(data);
 		System.out.println(myvar);
+		
+		//esto es un cambio que he ehecho en otro repositorio
+		String a="hello";
 
 	}
 
